@@ -7,4 +7,5 @@ git add .*txt
 git add .
 
 // view history
-
+git log
+git log -oneline
