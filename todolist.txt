@@ -8,5 +8,6 @@ TodoList
 * Linux (Ubuntu) - BashScript
 * Docker
 * Cloud	
-
+* Kubernetes
+* AWS / Azure
 
