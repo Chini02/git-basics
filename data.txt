@@ -8,4 +8,16 @@ git add .
 
 // view history
 git log
-git log -oneline
+git log --oneline
+
+// view version of file
+git show hashcommit namefile.txt
+
+// Compare commits using 
+git diff <hash1> <hash2> <file_path>.
+
+// Navigate to previous commits with 
+git checkout <commit_hash> 
+
+// return to latest commit with 
+git checkout main.
