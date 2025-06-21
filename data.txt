@@ -1,1 +1,10 @@
-data
+// git basics
+git initial
+git add todolist.txt
+git commit -m "commit"
+
+git add .*txt
+git add .
+
+// view history
+
