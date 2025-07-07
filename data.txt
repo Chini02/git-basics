@@ -27,3 +27,11 @@ git checkout main.
 // to check the diffrences
 git diff
 git diff --staged
+
+
+
+// Add new branch and merge it
+git branch AddMyBranch
+...
+git checkout master
+git merge AddMyBranch
