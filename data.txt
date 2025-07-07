@@ -21,3 +21,9 @@ git checkout <commit_hash>
 
 // return to latest commit with 
 git checkout main.
+
+
+
+// to check the diffrences
+git diff
+git diff --staged
