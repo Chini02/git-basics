@@ -12,4 +12,10 @@ TodoList
 * AWS / Azure
 
 //
+<<<<<<< HEAD
 Author: Hamza Chini 
+=======
+Author: 
+First Name: Hamza
+Last Name : Chini
+>>>>>>> LastName
