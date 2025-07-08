@@ -28,10 +28,24 @@ git checkout main.
 git diff
 git diff --staged
 
-
-
 // Add new branch and merge it
 git branch AddMyBranch
 ...
 git checkout master
 git merge AddMyBranch
+
+
+// Git Clone
+git clone http... .
+
+
+// Git pull
+git git pull
+
+
+// Gitgit pull = git merge + git fetch
+git pull 
+git fetch
+
+git branch -a
+git merge origin/master
